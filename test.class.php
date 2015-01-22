@@ -16,4 +16,8 @@ class test
 			return $this->hi();
 		return $this->hola();
 	}
+	public function update($msg)
+	{
+		return echo $msg;
+	}
 }
