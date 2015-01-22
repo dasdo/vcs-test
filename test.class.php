@@ -6,4 +6,8 @@ class test
 	{
 		return echo "hola mundo";
 	}
+	public function hola()
+	{
+		return echo "hello world";
+	}
 }
