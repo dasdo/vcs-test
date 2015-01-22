@@ -1,0 +1,10 @@
+{
+	"name": "dasdo/vcs-test",
+	"description": "test para probar la inclucion con composer.",
+	"keywords": ["Test", "composer"],
+	"license": "MIT",
+	"require": {
+		"guzzle/guzzle": "~3.7"
+	}
+}
+
