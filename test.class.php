@@ -10,4 +10,10 @@ class test
 	{
 		return echo "hello world";
 	}
+	public function test($lang)
+	{
+		if($lang == 'es')
+			return $this->hi();
+		return $this->hola();
+	}
 }
